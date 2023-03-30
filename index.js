@@ -30,8 +30,9 @@ i should have o(n) after dropping the constant
   function returns true, 
   
 */
-
 // You can run `node index.js` to view these console logs
+//run either npm test to see all tests are passing
+//or learn lab 
 if (require.main === module) {
   // add your own custom tests in here
   console.log("Expecting: true");
